@@ -1,0 +1,22 @@
+{
+    "name": "paulosp11/myapp-bluesky",
+    "description": "Project task from BlueSky",
+    "authors": [
+        {
+            "name": "Paulo Lucas",
+            "email": "paulo.informat@gmail.com"
+        }
+    ],
+    
+    "require": {
+        "doctrine/orm": "^2.6.2",
+        "symfony/yaml": "2.*",
+		"symfony/console": "5.2.2"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+
+
+}
+
